@@ -1,4 +1,5 @@
 # weather_station
+![](https://github.com/Mehti-nek/weather_station/blob/main/image/IMG_20220219_232256.jpg)
 its a weather station powered by Atmega328 microcontroller
 
  * Features :
